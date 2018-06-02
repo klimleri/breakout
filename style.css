@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+canvas {
+    background: #000;
+    display: block;
+    margin: 0 auto;
+}
+
+#start, #reload {
+    display: inline-block;
+    margin: 20px 10px;
+    color: #fff;
+    background-color: #428bca;
+    border-color: #357ebd;
+    padding: 10px;
+    width: 115px;
+    font-size: 15px;
+    cursor: pointer;
+}
